@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm currently working on an day/life planner application. I've used the Franklin Covey planning method for years (paper planner) and love some fo the principles they have. However, I've made some modifications over the years and have found that technology has reached a point that it offers many advantages and efficiencies over paper planning. 
 
 <!--
 **honicomb/honicomb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
