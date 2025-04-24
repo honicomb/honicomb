@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋![falcon](https://github.com/user-attachments/assets/07a5086c-f976-4bf3-9084-9a03d5e95145)
+
 I'm currently working on an day/life planner application. I've used the Franklin Covey planning method for years (paper planner) and love some fo the principles they have. However, I've made some modifications over the years and have found that technology has reached a point that it offers many advantages and efficiencies over paper planning. 
 
 <!--
